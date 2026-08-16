@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مدیریت اقساط</string>
+    <string name="notification_channel_name">یادآوری پرداخت</string>
+    <string name="notification_channel_description">اطلاع‌رسانی سررسید اقساط</string>
+</resources>

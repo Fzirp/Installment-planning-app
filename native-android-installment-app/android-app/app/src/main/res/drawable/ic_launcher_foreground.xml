@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Payment/Installment icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 C40.7,30 30,40.7 30,54 C30,67.3 40.7,78 54,78 C67.3,78 78,67.3 78,54 C78,40.7 67.3,30 54,30Z M54,33 C65.6,33 75,42.4 75,54 C75,65.6 65.6,75 54,75 C42.4,75 33,65.6 33,54 C33,42.4 42.4,33 54,33Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,44 L60,44 C61.1,44 62,44.9 62,46 L62,62 C62,63.1 61.1,64 60,64 L48,64 C46.9,64 46,63.1 46,62 L46,46 C46,44.9 46.9,44 48,44Z M49,47 L49,51 L59,51 L59,47Z M49,53 L59,53 L59,55 L49,55Z M49,57 L55,57 L55,59 L49,59Z"/>
+</vector>
